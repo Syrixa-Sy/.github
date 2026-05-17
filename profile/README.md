@@ -1,6 +1,6 @@
 <!-- created-by: claude-code -->
 <!-- modified-by: claude-code -->
-# Nedex
+# Syrixa
 
 Nedex builds Arabic-first SaaS products for the MENA region.
 
